@@ -112,7 +112,7 @@ if(isset($_POST['op'])){
 <div class="container mt-4">
 <p class="h5">Please Register Here!</p>
 <hr>
-</div>
+
 
 <form method=POST action=registration.php>
 
@@ -149,7 +149,7 @@ if(isset($_POST['op'])){
             <input type="hidden" name="op" value="save" />
 
         </form>
-
+        </div>
 <div class="container mt-4 mb-4">
     <a href="login.php">Already a user? Sign In!</a>
 </div>
