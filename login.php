@@ -147,8 +147,7 @@ if(isset($_POST['op'])){
     }
     ?>
 
-    <div class="panel panel-default">
-    <div class="panel-heading">Login page</div>
+    <div class="panel panel-default container">
     <div class="panel-body">
 
 
@@ -178,7 +177,7 @@ if(isset($_POST['op'])){
 </div>
 
 <div class="container mt-4 mb-4">
-    <a href="register.php">New Here? Register!</a>
+    <a href="registration.php">New Here? Register!</a>
 </div>
 
 <footer class="footer mt-auto py-3">
